@@ -1,7 +1,7 @@
 {
   "todos": [
     {
-      "todo": "Do something nice for someone I care about",
+      "todo": "cream",
       "completed": false,
       "userId": 1,
       "id": 1
@@ -19,7 +19,7 @@
       "id": 3
     },
     {
-      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "todo": "pea",
       "completed": false,
       "userId": 1,
       "id": 4
